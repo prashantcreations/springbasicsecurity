@@ -1,0 +1,15 @@
+package com.example.demo.web;
+
+import java.awt.image.RescaleOp;
+
+import org.springframework.http.ResponseEntity;
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class StudentController {
+	
+	ResponseEntity<?>  getStudent(){
+		return null;
+	}
+
+}
